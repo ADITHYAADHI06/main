@@ -1,0 +1,26 @@
+1. visiting 
+https://github.com/ADITHYAADHI06/visting-card.git
+
+2. calcu
+  https://github.com/ADITHYAADHI06/calculator.git
+
+3. dailer
+
+https://github.com/ADITHYAADHI06/dialer.git
+
+4. couter
+ https://github.com/ADITHYAADHI06/counter.git
+
+5. sign
+  https://github.com/ADITHYAADHI06/signinandsignup.git
+
+6. chnage 
+https://github.com/ADITHYAADHI06/changewallpaper.git
+
+7. text
+
+https://github.com/ADITHYAADHI06/texttospech.git
+
+8. parse
+
+https://github.com/ADITHYAADHI06/parsejson.git
